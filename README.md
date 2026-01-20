@@ -1,4 +1,4 @@
-##by vishesh kumar bansal (102316085)
+by vishesh kumar bansal (102316085)
 ## Dataset and Imbalance
 The dataset contains a `Class` column with two values:
 - 0 = legitimate transaction
