@@ -1,8 +1,4 @@
-# Credit Card Fraud Detection: Balancing + Sampling Techniques
-
-## Introduction
-This project explores how handling class imbalance affects the performance of machine learning models in credit card fraud detection. Fraud datasets are typically highly imbalanced, where the number of legitimate transactions is far greater than fraudulent ones. If this imbalance is ignored, models tend to predict everything as the majority class and still achieve high accuracy, which is misleading for real fraud detection.
-
+#by vishesh kumar bansal (102316085)
 ## Dataset and Imbalance
 The dataset contains a `Class` column with two values:
 - 0 = legitimate transaction
